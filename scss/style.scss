@@ -253,6 +253,7 @@ input::-moz-focus-inner {
             justify-content: flex-end;
             padding: 60px 0 0 70px;
 
+
             &-left {
                 padding: 0 70px 0 0;
                 justify-content: flex-start;
@@ -492,8 +493,7 @@ input::-moz-focus-inner {
         margin: 0;
         display: inline;
         list-style: none;
-        width: 100%;
-    
+        // width: 100%;
     
         img {
             padding: 5px;
